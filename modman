@@ -1,2 +1,2 @@
-# modman configuration file
+# modman configuration file.
 src             app/code/Pronko/Magento2TestModule
